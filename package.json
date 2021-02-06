@@ -4,6 +4,8 @@
   "description": "A fully functioning Google Books API search engine built with a RESTful API, and refactored to be a GraphQL API built with Apollo Server.",
   "main": "index.js",
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-server-express": "^2.19.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {},
